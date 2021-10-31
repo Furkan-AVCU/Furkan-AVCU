@@ -8,10 +8,6 @@
 <h3 align="center">A person who wants to learn a lot 😄 </h3>
 
 
-
-
-
-
 <br />
 
 
@@ -20,13 +16,10 @@
 <p align="center"><img alt="GIF" src="https://github.com/Furkan-AVCU/Furkan-AVCU/blob/main/logo-maker%20(1).gif" width="500" height="350" /></p>
 
 
-
-
-
 - 🔭 I’m currently working on ... Android Development
 - 🌱 I’m currently learning ... Android Programing with Java
 - 👯 I’m looking to collaborate on ... Android Development and good life
-- 🤔 I’m looking for help with ... My Best
+- 🤔 I’m looking for help with ... Life, living and Android Development
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him/Hi Cutie
 - ⚡ Fun fact: ... life and living
