@@ -25,7 +25,7 @@
 <br />
 
 
-<p><img align="center" alt="GIF" src="https://github.com/Furkan-AVCU/Furkan-AVCU/blob/main/code.gif" width="700" height="350" /></p>
+<p align="center"><img alt="GIF" src="https://github.com/Furkan-AVCU/Furkan-AVCU/blob/main/code.gif" width="700" height="350" /></p>
 
 - 🔭 I’m currently working on ... Android Development
 - 🌱 I’m currently learning ... Android Programing with Java
