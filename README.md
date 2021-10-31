@@ -19,20 +19,6 @@
 
 <p align="center"><img alt="GIF" src="https://github.com/Furkan-AVCU/Furkan-AVCU/blob/main/logo-maker%20(1).gif" width="500" height="350" /></p>
 
-<a align="center" href="https://www.linkedin.com/in/furkan-avcu-a0b849211">
-  <img align="left" alt="Furkan's LinkedIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/furkan.avcu/">
-  <img align="left" alt="Furkan's Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="mailto:f.avcu.b1@gmail.com ">
-  <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Furkan-AVCU.Furkan-AVCU)
-<br />
 
 
 
@@ -44,6 +30,24 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him/Hi Cutie
 - ⚡ Fun fact: ... life and living
+
+<h3 align="left">Connect with me:</h3>
+<br />
+<a align="center" href="https://www.linkedin.com/in/furkan-avcu-a0b849211" align="center">
+  <img align="left" alt="Furkan's LinkedIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/furkan.avcu/" align="center">
+  <img align="left" alt="Furkan's Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="mailto:f.avcu.b1@gmail.com " align="center">
+  <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Furkan-AVCU.Furkan-AVCU)
+
+
 
 <!--
 Here are some ideas to get you started:
