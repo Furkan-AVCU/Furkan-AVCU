@@ -8,7 +8,18 @@
 <h3 align="center">A person who wants to learn a lot 😄 </h3>
 
 
-<a href="https://www.linkedin.com/in/furkan-avcu-a0b849211">
+
+
+
+
+<br />
+
+
+<!--<p align="center"><img alt="GIF" src="https://github.com/Furkan-AVCU/Furkan-AVCU/blob/main/code.gif" width="700" height="350" /></p> -->
+
+<p align="center"><img alt="GIF" src="https://github.com/Furkan-AVCU/Furkan-AVCU/blob/main/logo-maker%20(1).gif" width="500" height="350" /></p>
+
+<a align="center" href="https://www.linkedin.com/in/furkan-avcu-a0b849211">
   <img align="left" alt="Furkan's LinkedIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -20,12 +31,11 @@
   <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Furkan-AVCU.Furkan-AVCU)
 <br />
 
 
-<p align="center"><img alt="GIF" src="https://github.com/Furkan-AVCU/Furkan-AVCU/blob/main/code.gif" width="700" height="350" /></p>
+
 
 - 🔭 I’m currently working on ... Android Development
 - 🌱 I’m currently learning ... Android Programing with Java
