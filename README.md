@@ -17,7 +17,7 @@
 
 
 - 🔭 I’m currently working on ... Android Development
-- 🌱 I’m currently learning ... Android Programing with Java
+- 🌱 I’m currently learning ... Android Programing with Java and developing my app
 - 👯 I’m looking to collaborate on ... Android Development and good life
 - 🤔 I’m looking for help with ... Life, living and Android Development
 - 💬 Ask me about ... Anything
